@@ -1,0 +1,35 @@
+
+h1{
+    text-align:center;
+    margin:0;
+
+}
+img{
+ max-width:100%;
+  object-fit:cover;
+}
+
+#main{
+    border: 2px solid black;
+    margin: 0px;
+    display:inline-block;
+
+   
+ 
+     
+}
+div #p1sc,
+div #p2sc{
+    font-size:100px;
+    display:inline-block;
+    text-align:center;
+}
+
+.btn1{
+    padding:0.85rem 2.5rem;
+    border-radius:5px;
+    outline:none;
+
+    border:none;
+
+}

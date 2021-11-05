@@ -38,6 +38,8 @@ function p2plusone() {
 }
 reset.addEventListener('click', clear)
 function clear() {
+    p1score = 0
+    p2score = 0
     p1sc.innerText = 0
     p2sc.innerText = 0
     p2sc.style.color = ''
